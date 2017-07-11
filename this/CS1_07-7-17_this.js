@@ -1,3 +1,5 @@
+// YouTube: https://www.youtube.com/watch?v=-9h9f600Q3Y&t=1706s
+
 // Whenever a function is contained in the GLOBAL scope, the value of "this" inside of that function will be GLOBAL Object === console.
 
 function greet(name) {
